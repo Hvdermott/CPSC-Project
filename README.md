@@ -43,6 +43,25 @@ https://www.nature.com/articles/s41467-022-29161-3#Sec21
 **Supplementary Data 8** Characteristics of qPCR primer pairs and programs used.
 
 
+## Figures
+
+<img width="595" height="460" alt="image" src="https://github.com/user-attachments/assets/875111fc-17fe-4e56-bf92-d15f37c59af0" />
+
+Figure 1.  Distribution of the study sites and their measured N2O emissions as well as the archaeal-nitrifier/denitrifier ratio (archaeal amoA/(nirK + nirS)). Typographical symbols (+, ×, or ✱) denote average N2O fluxes per site, the filled/open round, square, and triangle shapes represent different land-use types, and shape color shows the archaeal-nitrifier/denitrifier ratio based on the absolute abundance of gene copies determined by qPCR (n = 72 independent sites). b–d Latitudinal gradient of N2O emissions, archaeal amoA and nir (nirK + nirS). Error bars represent the standard error (SE) of the means (n = 74 independent sites). The statistical test used was two-sided.
+
+<img width="650" height="606" alt="image" src="https://github.com/user-attachments/assets/f785a468-0c06-4fa8-845f-18febe87622d" />
+
+Figure 2. The relative abundance data are based on the relative abundance of SSU rRNA genes (normalized by total SSU rRNA abundances per sample) as revealed by shotgun metagenomics (n = 74 independent sites). Boxes represent 25th–75th percentile of the data distribution with whiskers at 1.5 × the interquartile range and the middle line representing median. The size of circles corresponds to the partial importance based on Random Forest models (variability% of mean decrease in accuracy estimated based on out-of-bag-CV); blue and red depict negative and positive Spearman correlations, respectively (n = 74 independent sites). Archaeal and fungal phyla names are indicated in blue and red colour, respectively. The abbreviations are organic matter (OrM), pH (soil pH), C/N (carbon to nitrogen ratio), Ca (calcium), K(potassium), P (phosphorous), Mg (magnesium), and Von Post grade of decomposition (VPG).
+
+<img width="600" height="6070" alt="image" src="https://github.com/user-attachments/assets/bf773516-779e-4694-bd40-ae35d5de1b98" />
+
+Figure 3. a Schematic view of nitrogen cycle in soils and the key genes involved. b Relationship between site mean relative abundance of archaeal amoA and N2O emission (n = 74 independent sites). The relative abundance of archaeal amoA was determined based on the relative abundance of metagenomics reads assigned to ENOG411114F (extracted from Hellinger transformed abundance matrix of archaeal OGs). The inset numbers represent a Spearman rank correlation coefficient (r) and corrected p-value for multiple testing using Benjamini–Hochberg method (q). Error bars represent the standard errors (SE) of the site means. c Partial least-squares regression (PLS regression) plot showing the relationships among the relative abundances of prokaryotic taxonomic groups (as determined by 16S metabarcoding) and N2O emission (n = 74 independent sites). Blue lines represent archaeal phyla. The statistical test used was two-sided.
+
+<img width="600" height="542" alt="image" src="https://github.com/user-attachments/assets/a2b2608e-7c91-49c9-b992-61ea537fd3e1" />
+
+Figure 4. a Correlations between environmental variables, the abundance of nir, nosZ and amoA genes (quantified by qPCR) and N2O emission (n = 74). The abbreviations are archaeal amoA (arch-amoA), bacterial amoA (bac-amoA), organic matter (OrM), pH (soil pH), C/N (soil carbon to nitrogen ratio), Von Post grade of decomposition (VPG). b Structural equation modeling (SEM) showing niche differentiation between bacterial and archaeal amoA (n = 74 independent sites). The model fitness was acceptable (Fisher’s C = 8.4, p = 0.08). Line thickness corresponds to standardized regression coefficients as indicated in the legend. Dash lines indicate negative relationships. The statistical test used was two-sided. The abbreviations are mean annual temperature (MAT), pH (soil pH). c Relationship between N2O emissions and the diversity of N cycle functional genes that are directly involved in N2O dynamics, including archaeal amoA, bacterial amoA, comammox amoA, nirK, nirS, nrfA, nosZI, and nosZII. The inset numbers represent an adjusted r2 and p-value from a GAM model. Error bars represent the standard error (SE) of the means (n = 74 independent sites). The statistical test used was two-sided.
+
+
 
 
 
