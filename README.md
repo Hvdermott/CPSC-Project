@@ -43,7 +43,7 @@ https://www.nature.com/articles/s41467-022-29161-3#Sec21
 **Supplementary Data 8** Characteristics of qPCR primer pairs and programs used.
 
 
-## Figures
+## Paper Figures
 
 <img width="595" height="460" alt="image" src="https://github.com/user-attachments/assets/875111fc-17fe-4e56-bf92-d15f37c59af0" />
 
@@ -61,7 +61,7 @@ Figure 3. a Schematic view of nitrogen cycle in soils and the key genes involved
 
 Figure 4. a Correlations between environmental variables, the abundance of nir, nosZ and amoA genes (quantified by qPCR) and N2O emission (n = 74). The abbreviations are archaeal amoA (arch-amoA), bacterial amoA (bac-amoA), organic matter (OrM), pH (soil pH), C/N (soil carbon to nitrogen ratio), Von Post grade of decomposition (VPG). b Structural equation modeling (SEM) showing niche differentiation between bacterial and archaeal amoA (n = 74 independent sites). The model fitness was acceptable (Fisher’s C = 8.4, p = 0.08). Line thickness corresponds to standardized regression coefficients as indicated in the legend. Dash lines indicate negative relationships. The statistical test used was two-sided. The abbreviations are mean annual temperature (MAT), pH (soil pH). c Relationship between N2O emissions and the diversity of N cycle functional genes that are directly involved in N2O dynamics, including archaeal amoA, bacterial amoA, comammox amoA, nirK, nirS, nrfA, nosZI, and nosZII. The inset numbers represent an adjusted r2 and p-value from a GAM model. Error bars represent the standard error (SE) of the means (n = 74 independent sites). The statistical test used was two-sided.
 
-
+*See 'Supplementary Data Figures' PDF for additional figures not included in the paper*
 
 
 
